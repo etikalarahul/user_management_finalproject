@@ -7,7 +7,7 @@ from settings.config import settings
 import logging
 
 class SMTPClient:
-    def _init_(self, server: str, port: int, username: str, password: str):
+    def __init__(self, server: str, port: int, username: str, password: str):
         self.server = server
         self.port = port
         self.username = username
