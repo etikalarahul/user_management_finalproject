@@ -19,7 +19,7 @@ Out of all the provided [Features to Select From](features.md) 🛠️ I have op
 Please find the document about all the learnings across this project.
 [Learnings](learning.md)
 
-Below is the list of 8 QA issues that were fixed:
+Below is the list of 7 QA issues that were fixed:
 
 | Issues    | 
 | -------- | 
